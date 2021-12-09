@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import { fetchCovidDataByCountry } from "../Redux/Api";
-import Header from "./Navbar";
+import Navbar from "./Navbar";
 
 const DetailsPage = () => {
   const { name } = useParams();
@@ -20,7 +20,7 @@ const DetailsPage = () => {
       {state ? (
         <div className="detail-container">
           <div>
-            <Header />
+            <Navbar />
             <img src={state.countryInfo.flag} alt="country flag" />
             <h2 className="name"> {state.name} </h2>{" "}
             <h2 className="name">

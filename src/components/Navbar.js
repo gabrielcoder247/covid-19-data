@@ -3,7 +3,7 @@ import { BsFillBackspaceFill } from "react-icons/bs";
 import { FiSettings } from "react-icons/fi";
 import { BiMicrophone } from "react-icons/bi";
 
-const Header = () => {
+const Navbar = () => {
   const match = useMatch("/country/:name");
   return (
     <nav className="nav-bar">
@@ -24,4 +24,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Navbar;
