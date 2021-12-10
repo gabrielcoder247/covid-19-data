@@ -10,14 +10,13 @@
 - VScode
 - Lots of love :heart:
 ## Screenshot
-[Click here to see a screenshot](<img width="1440" alt="Screen Shot 2021-11-27 at 6 43 52 AM" src="https://user-images.githubusercontent.com/62937819/143659785-7746b52e-3a7b-495b-a550-16aeead6648c.png">
-)
+[Click here to see a screenshot](src/covid-19-data.png/)
 ## Live Demo
 [Click here to see the project](https://dazzling-johnson-ead422.netlify.app/)
 
 
 ## video demo
-[Click here to watch the video](https://www.loom.com/share/7b8d70d754984fd688df52b8bafc3ab8)
+[Click here to watch the video](https://www.loom.com/share/7a093e7c994a455b9c2edc15a989e58a)
 ## Getting Started
 **To get a local copy up and running follow these simple example steps.**
 ## Setup
