@@ -14,6 +14,10 @@
 )
 ## Live Demo
 [Click here to see the project](https://spacexapi-demo.netlify.app/)
+
+
+## video demo
+[Click here to watch the video](https://www.loom.com/share/7b8d70d754984fd688df52b8bafc3ab8)
 ## Getting Started
 **To get a local copy up and running follow these simple example steps.**
 ## Setup
