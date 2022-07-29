@@ -46,7 +46,7 @@ Give a ⭐️ if you like this project!
 - Microverse
 ## 📝 MIT License
 This project makes use of the MIT license.
-Just clone and then run npm install to make it work.
+Just clone and then run npm install to make it work
 
 
 
