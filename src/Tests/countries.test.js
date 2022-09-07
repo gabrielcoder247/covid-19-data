@@ -25,8 +25,4 @@ describe("test fetching data", () => {
       expect(data.countries[0].countryFlag).toBe("url")
     );
   });
-
-  // it('test fetching country continent', async() => {
-  //     await getCountries().then((data) => expect(data.countries[0].continent).toBe('Africa'));
-  // });
 });
